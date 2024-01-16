@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignoriere den node_modules-Ordner
+node_modules/
+
+#config for api keys
+src/scripts/config.js
